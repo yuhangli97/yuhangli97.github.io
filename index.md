@@ -17,5 +17,5 @@
 ---
 - StarGAN Unified Generative Adversarial Networks for Multi-Domain Image-to-Image Translation
 - High Fidelity Face Manipulationwith Extreme Poses and Expressions
-- Cascade EF-GAN- Progressive Facial Expression Editing With Local Focuses
-- MaskGAN- Towards Diverse and Interactive Facial Image Manipulation
+- Cascade EF-GAN：Progressive Facial Expression Editing With Local Focuses
+- MaskGAN：Towards Diverse and Interactive Facial Image Manipulation
